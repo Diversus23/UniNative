@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.064,=X:\Dropbox\ford-sollers\SocketNative\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.858,=X:\Dropbox\ford-sollers\SocketNative\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.192,=D:\_Проекты\ВК NativeAPI Uni1C\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.289,X:\Dropbox\ford-sollers\SocketNative\Unit1.pas=X:\Dropbox\ford-sollers\SocketNative\v8napi_vladon.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.166,D:\_Проекты\ВК NativeAPI Uni1C\UniNative.dproj=D:\_Проекты\ВК NativeAPI Uni1C\SocketNative.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.170,D:\_Проекты\ВК NativeAPI Uni1C\uGraphicsNative.pas=D:\_Проекты\ВК NativeAPI Uni1C\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.506,X:\Dropbox\ford-sollers\SocketNative\Unit1.pas=X:\Dropbox\ford-sollers\SocketNative\uLog.pas</Transaction>
+    <Transaction>2019.08.14 16:43:49.429,D:\_Проекты\ВК UniNative\v8napi.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
